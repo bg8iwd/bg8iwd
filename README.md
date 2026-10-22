@@ -23,6 +23,8 @@
 
 `Swift` · `FUSE` · `macOS`
 
+[源码](https://github.com/bg8iwd/ntfs-readwrite-helper) · [下载 v1.4.0](https://github.com/bg8iwd/ntfs-readwrite-helper/releases/latest)
+
 **杨杨的博客** — 自己写的 PHP 博客系统，文章以 Markdown 存库、服务端渲染，不依赖任何框架，跑在一台自己的 VPS 上。
 
 **怀旧游戏站** — 浏览器里跑的复古游戏平台，模拟器内核自托管，存档走服务端。
@@ -38,6 +40,7 @@
 - 博客：<https://xn--yrva.xyz>
 - 邮箱：<yang@xn--yrva.xyz>
 - GitHub：<https://github.com/bg8iwd>
+- 仓库：[ntfs-readwrite-helper](https://github.com/bg8iwd/ntfs-readwrite-helper) · [dev-starter](https://github.com/bg8iwd/dev-starter)
 
 <div align="center">
 <sub>把自己用的东西做出来，是理解它最快的方式</sub>
