@@ -1,6 +1,6 @@
 <div align="center">
 
-# 杨 · bg8iwd
+# 杨杨 · bg8iwd
 
 独立开发者 · 写 macOS 工具，也维护自建的 Web 服务
 
